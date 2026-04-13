@@ -1,4 +1,4 @@
-#include "../assert/DebugAssert.cpp"
+#include "../assert/DebugAssert.hpp"
 
 struct Graph {
 public:
